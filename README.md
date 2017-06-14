@@ -1,5 +1,5 @@
-# myFirstProject
+# protfeature
 
-[![Build Status](https://travis-ci.org/davibootcamp/myFirstProject.svg?branch=master)](https://travis-ci.org/davibootcamp/myFirstProject)
+[![Build Status](https://travis-ci.org/davibootcamp/protfeature.svg?branch=master)](https://travis-ci.org/davibootcamp/protfeature)
 
-Testing first commit
+Protein feature and stuff
